@@ -55,13 +55,13 @@ Sales distributed across multiple continents:
 
 ## 📁 Project Structure
 
-⬗ data - Raw and cleaned datasets
+⬗  data - Raw and cleaned datasets
 
-⬗ visuals - Screenshots of dashboards
+⬗  visuals - Screenshots of dashboards
 
-⬗ reports - Final PDF reports 
+⬗  reports - Final PDF reports 
 
-⬗ README - Project documentation
+⬗  README - Project documentation
 
 
 ## 💡 Insights & Business Recommendations
